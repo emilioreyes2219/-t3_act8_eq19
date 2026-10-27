@@ -11,7 +11,7 @@ Para la implementación de la tabla de datos se utilizó la **DummyJSON Products
 
 - https://dummyjson.com/products
 
-Esta API se utilizó para mostrar los productos, aplicar filtros, paginación y realizar las operaciones CRUD simuladas (Agregar, Editar y Eliminar). :contentReference[oaicite:0]{index=0}
+Esta API se utilizó para mostrar los productos, aplicar filtros, paginación y realizar las operaciones CRUD simuladas (Agregar, Editar y Eliminar). 
 
 ## Proyecto desplegado
 
